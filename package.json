@@ -26,7 +26,7 @@
     "@babel/preset-env": "^7.9.5",
     "@hapi/joi": "^17.1.1",
     "csvtojson": "^2.0.10",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-joi-validation": "^4.0.3"
   },
   "nodemonConfig": {
